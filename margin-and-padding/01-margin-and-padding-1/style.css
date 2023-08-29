@@ -15,7 +15,7 @@ body {
   background: lightblue;
   border: 3px solid purple;
   /* CHANGE ME */
-  margin-bottom: 48px;
+  margin: 48px;
 }
 
 .three {
@@ -24,5 +24,5 @@ body {
   width: 200px;
   /* CHANGE ME */
   padding: 32px;
-  margin-left: auto; // this one is changed to 'auto'. A mistake.
+  margin-left: auto;
 }
